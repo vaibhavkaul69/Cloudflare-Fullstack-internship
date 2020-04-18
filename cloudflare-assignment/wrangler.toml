@@ -1,0 +1,4 @@
+name = "cloudflare-assignment"
+type = "javascript"
+account_id = "dccb3c92ec1e6ee00a635356eca8d615"
+workers_dev = true
